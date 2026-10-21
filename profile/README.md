@@ -39,7 +39,14 @@ Published packages:
 
 ## Community
 
-Use **Discussions** on [docs](https://github.com/ethioreview/docs/discussions) for product/API questions, and on [er-widget-sample](https://github.com/ethioreview/er-widget-sample/discussions) for sample-app help.
+Discussions are enabled on our public repos:
+
+| Board | Use for |
+| ----- | ------- |
+| [docs Discussions](https://github.com/ethioreview/docs/discussions) | API keys, widgets, sandbox, docs feedback |
+| [er-widget-sample Discussions](https://github.com/ethioreview/er-widget-sample/discussions) | Sample app setup and local embed help |
+
+Start here: [Welcome (docs)](https://github.com/ethioreview/docs/discussions/1) · [Welcome (sample)](https://github.com/ethioreview/er-widget-sample/discussions/1)
 
 ## Mission
 
